@@ -1,0 +1,28 @@
+.campaign_image{
+    height: 500px;
+}
+
+.menu_image{
+    height: 400px;
+    margin: 10px 50px 50px 50px;
+    border: 10px solid #fec7f5;
+}
+
+.campaign{
+    border: thick double #32a1ce;
+    margin: 30px 30px 30px 30px;
+    padding: 10px 30px 30px 30px;
+    width: 800px;
+}
+
+.figcaption{
+    font-size: x-large;
+}
+
+.contents{
+    display: flex;
+}
+
+.figure_footer{
+    margin-top: -40px;
+}

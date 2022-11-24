@@ -1,0 +1,37 @@
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+
+.chef_image{
+  width: 500px;
+  height: 300px;
+  margin: auto;
+}
+
+.back_image{
+  height: 450px;
+  background-image: url(./figures/back.jpg);
+}
+
+.title{
+  font-family: 'M PLUS 1p';
+  text-align: center;
+  margin-bottom: auto;
+}
+
+body{
+  flex-flow: column;
+}
+
+.footer{
+  height: 30px;
+}
+
+.footer_text{
+  text-align: center;
+  height: 15px;
+}
+
+.docs{
+  margin-left: 20px;
+}
